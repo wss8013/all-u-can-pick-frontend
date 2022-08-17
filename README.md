@@ -3,20 +3,21 @@ Heroku address: https://all-u-can-pick-frontend.herokuapp.com/  <br />
 Group name: The Ladybugs <br />
 Group members: Hongxi Chen, Jingyi Luo, Shasha Wang <br />
 # HOME PAGE
-https://media.github.ccs.neu.edu/user/11194/files/e19cece6-2e17-4c02-9bbc-923d15ccdbeb
+
+https://user-images.githubusercontent.com/80186905/185049506-8cefb655-3076-4451-b08c-2a3aa17e8200.mp4
 
 # FARM SEARCH
 
-https://media.github.ccs.neu.edu/user/11194/files/eeb0f454-e7da-4901-acdc-f5b77d027d22
+https://user-images.githubusercontent.com/80186905/185049713-73b5acda-0cfb-45b9-ba1b-bba9a2acb3db.mp4
 
 # GOOGLE OAUTH LOGIN && CURD OPERATION
 
-https://media.github.ccs.neu.edu/user/11194/files/b4c9530f-17fc-44ea-88b8-0f706a45f32c
+
+https://user-images.githubusercontent.com/80186905/185049785-33b72f9b-4b25-4ab0-a6bf-9f56da07af6d.mp4
 
 # FAVORITES
 
-https://media.github.ccs.neu.edu/user/11194/files/4d4a8c31-3205-48b6-b94c-99b90a4c2334
-
+https://user-images.githubusercontent.com/80186905/185049835-806df508-17fb-4c2e-aaa9-440a47a89191.mp4
 
 Members' contribution:<br /><br />
 Shasha Wang: 
