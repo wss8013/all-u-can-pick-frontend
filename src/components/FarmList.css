@@ -1,0 +1,56 @@
+/* searchbox features */
+.form-control-borderless {
+    border: none;
+}
+
+/* card features */
+
+.farmListRow {
+    margin-top: 15px;
+    margin-left: 20px;
+}
+
+.card {
+    margin-top: 15px;
+}
+
+.cardBody {
+    background-color: #F8EEE7;
+    height: 180px;
+}
+
+div.poster {
+    position: absolute;
+    padding: 0;
+    margin: 10px;
+}
+
+.smallPoster {
+    user-select: none;
+}
+
+.heart {
+    position: absolute;
+    padding: 0;
+    width: 32.5em;
+    height: 4em;
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+.heartFill {
+    fill: pink;
+}
+
+.heartEmpty {
+    fill: white;
+}
+
+.farmsListPageCard {
+    width: 18rem;
+    margin-top: 20px;
+} 
+
+.farmListDetailButton{
+    display:block;
+    margin:0 auto;
+}

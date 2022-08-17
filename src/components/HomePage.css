@@ -1,0 +1,163 @@
+/* Web Intro */
+.title {
+  font-family: "Arvo", cursive;
+  color: #49274A;
+  font-size: 4rem;
+  line-height: 1.5;
+  text-shadow: 3px 0 #DA0463;
+}
+
+.web-intro {
+  position: relative;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.intro-img {
+  position: relative;
+  width: 100%;
+  height: 300px;
+  object-fit:cover;
+  object-position: 50% 50%;
+}
+
+.intro-word {
+  position: absolute;
+  text-align: center;
+}
+
+.intro-word1 {
+  left: 15%;
+  margin: 80px 0px;
+  font-family: "Arvo", cursive;
+  color: white;
+  text-shadow: 3px 0 #DA0463;
+  line-height: 1.5;
+  font-size: 3.5em;
+}
+
+
+.intro-word2 {
+  font-family: "Brush Script MT, Brush Script Std", cursive;
+  color: white;
+  text-shadow: 1px 0 #49274A;
+  right: 0;
+  margin-top: 240px;
+  margin-right: 10%;
+  line-height: 1.2;
+  font-size: 1.5em;
+}
+
+.intro-word3 {
+  left: 15%;
+  margin: 100px 0px;
+  font-family: "Arvo", cursive;
+  color: white;
+  text-shadow: 3px 0 #DA0463;
+  line-height: 1.5;
+  font-size: 3em;
+}
+
+/* Features */
+.features{
+  padding: 0 15%;
+  position: relative;
+  z-index: 1;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 4.5%;
+}
+
+.feature-title{
+  font-family: "Brush Script MT, Brush Script Std", cursive;
+  font-size: 2.5rem;
+}
+
+.feature-desc{
+  font-family: 'Ubuntu',  sans-serif;
+  color: #8f8f8f;
+  font-size: 1.5rem;
+}
+
+.icon {
+  display: inline-block;
+  font-weight: 900;
+  font-size: 4em;
+}
+
+
+/* Fruit */
+.fruit {
+  margin-top: 10px;
+  padding: 0;
+  width: 20%;
+  height: 4em;
+  filter: drop-shadow(2px 4px 6px black);
+}
+
+.fruit-peach {
+  fill: #EB6E80;
+}
+
+.fruit-apple {
+  fill: #E24E42;
+}
+
+.fruit-strawberry {
+  fill: #E24E42;
+}
+
+.fruit-cherry {
+  fill: #E24E42;
+}
+
+.fruit-berry {
+  fill: #4484CE;
+}
+
+
+/* farm recommendation */
+
+.farmsListCard {
+margin: 0 30px;
+white-space: nowrap;
+width: 20rem;
+}
+
+
+.container-word {
+  display: flex;
+  padding:5% 5%;
+}
+
+.cardBody {
+  background-color: #F8EEE7;
+}
+
+.smallPoster {
+  width: auto;
+  height: 200px;
+}
+
+.farm-recommendation {
+  text-align: center;
+  /* background-color: #FEDCD2; */
+  margin: 0 auto;
+  padding: 100px auto;
+}
+
+.title-recommendation {
+  font-size: 4rem;
+  color: #49274A;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+  margin-bottom: 0px;
+  margin-top: 50px;
+}
+
+.farmname {
+  overflow: hidden;
+}

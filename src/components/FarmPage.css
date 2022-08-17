@@ -1,0 +1,36 @@
+.personpic{
+    float:left;
+    width:400px;
+    height:300px;
+    border-radius: 10px;
+}
+.list{
+    text-align: left;
+    font-family: Comic Sans MS;
+    font-size:medium;
+}
+.page{
+    background-color: #f4decb;
+}
+.farmReviewRow img{
+    width: 354px;
+    height: 290px;
+    float: left;
+    
+}
+.coverCol{
+    background-color: #f4decb;
+}
+.card{
+    background-color: #f4decb;
+}
+.review{
+    font-family: MV Boli;
+    font-size: x-large;
+}
+.reviewName{
+    font-family:Segoe Print;
+}
+.fruits{
+    display: inline;
+}
