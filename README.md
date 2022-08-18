@@ -6,29 +6,32 @@ Group members: Hongxi Chen, Jingyi Luo, Shasha Wang <br />
 https://media.github.ccs.neu.edu/user/11194/files/e19cece6-2e17-4c02-9bbc-923d15ccdbeb
 
 # FARM SEARCH
+### Users can type key words to search the farm.
 
 https://media.github.ccs.neu.edu/user/11194/files/eeb0f454-e7da-4901-acdc-f5b77d027d22
 
 # GOOGLE OAUTH LOGIN && CURD OPERATION
+### The website use the credentials service of Google Cloud Platform APIs to authenticate users. User can login and add/edit/delete their reviews.
 
 https://media.github.ccs.neu.edu/user/11194/files/b4c9530f-17fc-44ea-88b8-0f706a45f32c
 
 # FAVORITES
+### After login, Users can click on the hearts to select their farms to favorite page and drag and drop the cards to change the order. The new order is updated immediately and persists across page refreshes and repeated log-ins.
 
 https://media.github.ccs.neu.edu/user/11194/files/4d4a8c31-3205-48b6-b94c-99b90a4c2334
 
-
-Members' contribution:<br /><br />
-Shasha Wang: 
+## Members' contribution:<br />
+### Shasha Wang: 
 1. Set up all necessary backend code for database CURD operation. 
 2. implemented backend CURD api for frontend to use
 3. implement backend request routing.
 4. implmented frontend service api to send different request to backend, so the different component can use the data service to execute CURD operation on database.
 5. setup heroku for both frontend and backend and cloud mongodb on Atlas. 
 6. design mongodb schema for farms, reviews and favorites farms.
-7. add favorite backend function. Enable frontend to display favorite(link) when user logs in  <br />
+7. add favorite backend function. Enable frontend to display favorite(link) when user logs in  
+8. setup favorite page, design layout, add drag and drop to reorder <br />
 
-Hongxi Chen:
+### Hongxi Chen:
 1.	Design and style background/favicon/icon for website
 2.  Search 3rd party libraries we will incorporate for our website
 3.  Use React Components: Carousels for picture at Landing Page
@@ -37,29 +40,24 @@ Hongxi Chen:
 6.  Setup Footer
 7.	Set up Landing and FarmsList Page, design style and use appropriate api service, using react-fast-marquee that utilizes the power of CSS animations to create silky smooth marquees. <br />
 
-Jingyi Luo:
+### Jingyi Luo:
 1.	Setup FarmPage component
 2.	Setup Addreview component
-
 
 ## lo-fi mock-ups (wireframes) 
 ![](readmeSource/framework.png)
 ## Iteration 1 - Laying the groundwork for the frontend
-
 ![](readmeSource/landingPage-1.png)
 ![](readmeSource/farmlist-1.png)
-
-## Iteration 2 - Laying the groundwork for the frontend
-
+## Iteration 2 - Developing CRUD module
 ![](readmeSource/landingPage-2.png)
 ![](readmeSource/landingPage-3.png)
 ![](readmeSource/farmlist-2.png)   
 ![](readmeSource/FarmPage.png)
-
-## Iteration 3 - Laying the groundwork for the frontend
-
+## Iteration 3 - Keep working on homepage, farm page and favorite page
 ![](readmeSource/landingPage-4.png)
-![](readmeSource/farmlist-3.png)   
+![](readmeSource/farmlist-3.png)
+![](readmeSource/favorite.png) 
 ![](readmeSource/FarmPage.png)  
                                                   
 
